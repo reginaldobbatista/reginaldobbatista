@@ -1,6 +1,6 @@
 ## 🖖🏻🧑‍💻Olá Dev, eu sou o Reginaldo B. Batista!
 ### E estou em busca do meu sonho que é programar!
-<div>
+
 #### ◼️ Bom, saiba um pouco de mim
  - 🥩🍣 Sou amante de churrasco e comida japonesa;
  - 👨🏻‍💻Sou Recém formado em Análise e Desenvolvimento de Sistmas;
@@ -18,7 +18,7 @@
 #### ◼️ Para me contactar...
  - 📬reginaldobbatista@gmail.com
  - https://www.linkedin.com/in/reginaldo-barbosa-batista-b418a8104/
-</div>
+
 <div align="center">
   <a href="https://github.com/reginaldobbatista">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=reginaldobbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
