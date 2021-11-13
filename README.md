@@ -29,8 +29,8 @@
 <div>
     <b>◼️ contact me</b>
     <div>
-        <a href="href="https://www.linkedin.com/in/reginaldo-barbosa-batista-b418a8104/" target="_blank"><img alight=left height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-        <a href="reginaldobbatista@gmail.com" target="_blank"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/reginaldo-barbosa-batista-b418a8104/" target="_blank"><img alight=left height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+        <a href="emailto:reginaldobbatista@gmail.com" target="_blank"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
      </div>
 </div>
 
