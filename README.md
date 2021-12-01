@@ -5,7 +5,7 @@
  - 👨‍🎓Estou realizando uma Pós em Ciência de Dados e Big Data Analytics;
  - 💾Hoje desenvolvo aplicativos para área de segurança pública com a
  linguagem Dart e a framework flutter;
- - 🐱‍👤Meu atual propósito é mudar de área, ser um ninja na programação.
+ - 🐱‍👤Meu atual propósito é mudar de área, ser um full stack developer.
 ##
 <div>
     ◼️ <b>Skill</b><br>
