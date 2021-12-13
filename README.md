@@ -4,10 +4,11 @@
  - 🥩🍣 Sou amante de churrasco e comida japonesa;
  - 👨🏻‍💻Sou Recém formado em Análise e Desenvolvimento de Sistemas;
  - 👨‍🎓Estou realizando uma Pós em Ciência de Dados e Big Data Analytics;
- - 💾Hoje desenvolvo aplicativos para área de segurança pública com a 
+ - 💾Hoje desenvolvo aplicativos para área de segurança pública com a <br>
  linguagem Dart e a framework flutter;
  - 🐱‍👤Meu atual propósito é mudar de área, ser um full stack developer.
 <img height=200 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" posit>
+
 ##
 <div>
     ◼️ <b>Skill</b><br>
@@ -15,6 +16,7 @@
     <img height=25 src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=55A2DD">
     <img height=25 src="https://img.shields.io/badge/Flutter-1a1b27?style=for-the-badge&logo=flutter&logoColor=66B1F1">
  </div>
+ 
  ##
 <div>
     <b>◼️ studying</b>
@@ -25,6 +27,7 @@
         <img height=25 src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=F7DF1E" />
     </div>
 </div>
+
 ##
 <div>
     <b>◼️ contact me</b>
@@ -33,6 +36,7 @@
         <a href="mailto:reginaldobbatista@gmail.com" target="_blank"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      </div>
 </div>
+
 ##
 <div align="left">
   <a href="https://github.com/reginaldobbatista">
