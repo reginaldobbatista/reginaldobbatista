@@ -4,7 +4,7 @@
  - 🥩🍣 Sou amante de churrasco e comida japonesa;
  - 👨🏻‍💻Sou Recém formado em Análise e Desenvolvimento de Sistemas;
  - 👨‍🎓Estou realizando uma Pós em Ciência de Dados e Big Data Analytics;
- - 💾Hoje desenvolvo aplicativos para área de segurança pública com a
+ - 💾Hoje desenvolvo aplicativos para área de segurança pública com a <br>
  linguagem Dart e a framework flutter;
  - 🐱‍👤Meu atual propósito é mudar de área, ser um full stack developer.
 
