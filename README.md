@@ -4,11 +4,12 @@
  - 🥩🍣 Sou amante de churrasco e comida japonesa;
  - 👨🏻‍💻Sou Recém formado em Análise e Desenvolvimento de Sistemas;
  - 👨‍🎓Estou realizando uma Pós em Ciência de Dados e Big Data Analytics;
- - 💾Hoje desenvolvo aplicativos para área de segurança pública com a <br><img height=250 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+ - 💾Hoje desenvolvo aplicativos para área de segurança pública com a 
  linguagem Dart e a framework flutter;
  - 🐱‍👤Meu atual propósito é mudar de área, ser um full stack developer.
-
- <img height=250 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+ <img height=250 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" posit>
 
 ##
 <div>
