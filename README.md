@@ -7,10 +7,7 @@
  - 💾Hoje desenvolvo aplicativos para área de segurança pública com a 
  linguagem Dart e a framework flutter;
  - 🐱‍👤Meu atual propósito é mudar de área, ser um full stack developer.
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
- <img height=250 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" posit>
-
+<img height=200 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" posit>
 ##
 <div>
     ◼️ <b>Skill</b><br>
@@ -18,7 +15,6 @@ Solarized dark             |  Solarized Ocean
     <img height=25 src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=55A2DD">
     <img height=25 src="https://img.shields.io/badge/Flutter-1a1b27?style=for-the-badge&logo=flutter&logoColor=66B1F1">
  </div>
- 
  ##
 <div>
     <b>◼️ studying</b>
@@ -29,7 +25,6 @@ Solarized dark             |  Solarized Ocean
         <img height=25 src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=F7DF1E" />
     </div>
 </div>
-
 ##
 <div>
     <b>◼️ contact me</b>
@@ -38,7 +33,6 @@ Solarized dark             |  Solarized Ocean
         <a href="mailto:reginaldobbatista@gmail.com" target="_blank"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      </div>
 </div>
-
 ##
 <div align="left">
   <a href="https://github.com/reginaldobbatista">
