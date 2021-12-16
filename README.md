@@ -11,7 +11,7 @@
 
 ##
 <div>
-    ◼️ <b>Skill</b><br>
+    ◼️ <b>beginner </b><br>
     <img height=25 src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E96228">
     <img height=25 src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=55A2DD">
     <img height=25 src="https://img.shields.io/badge/Flutter-1a1b27?style=for-the-badge&logo=flutter&logoColor=66B1F1">
